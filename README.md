@@ -10,6 +10,7 @@ This repository contains the program of the training and testing procedures of F
 # Instructions
 The following instructions are necessary before the networking training:
 - The repository only provide the programs used for the training and testing of the FCS-CsiNet and FCS-CRNet in the form of python files. The network models in the form of h5 files are not included.
+- The part "settings of GPU" in each python file should be adjusted in advance according to the device setting of the user.
 - The folds named "result" in the folds "FCS-CsiNet" and "FCS-CRNet" store the models obtained during the training procedure.
 - The dataset used in the network training can be downloaded from https://drive.google.com/drive/folders/1_lAMLk_5k1Z8zJQlTr5NRnSD6ACaNRtj?usp=sharing (first provided in https://github.com/sydney222/Python_CsiNet). The dataset should be put in the folds "data".
 Therefore, the structure of the folds "FCS-CsiNet" and "FCS-CRNet" should be:
