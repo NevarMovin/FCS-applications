@@ -1,5 +1,5 @@
 # FCS-applications
-Source code for CsiNet and CRNet using Fully Connected Layer-Shared feedback architecture. 
+Source code for CsiNet and CRNet using the Fully Connected Layer-Shared feedback architecture. 
 # Introduction
 This repository contains the program of the training and testing procedures of FCS-CsiNet and FCS-CRNet proposed in Boyuan Zhang, Haozhen Li, Xin Liang, Xinyu Gu, and Lin Zhang, "Fully Connected Layer-Shared Network Architecture for Massive MIMO CSI Feedback" (submitted to IET Electronics Letters).
 # Requirements
