@@ -206,7 +206,6 @@ autoencoder.save_weights(outfile)
 outfile = 'result/%s_model.h5' % file
 autoencoder.load_weights(outfile)
 
-
 tStart = time.time()
 x_hat = autoencoder.predict(x_test, batch_size=batch_size)
 tEnd = time.time()
