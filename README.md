@@ -23,9 +23,10 @@ data/
 # Training Procedure 
 The training and testing procedures are demonstrated as follows:
 ## Step.1 Main training process
-Run Step1_main_training_1.py and Step1_main_training_12.py to obtain the parameters of the shared FC layer and the per-trained models of the other parts of the network.
+Run Step1_main_training_1.py and Step1_main_training_12.py to obtain the parameters of the shared FC layer and the pre-trained models of the other parts of the network.
 ## Step.2 Assistant review processes
 Run Step2_assistant_review.py to obtain the model used in Scenario_1. The feedback accuracy of the model in Scenario_1 will be also be calculated in Step.2.
 ## Step.3 Assistant compensation process
 Run Step3_assistant_compensation.py to obtain the model used in Scenario_2. The feedback accuracy of the model in Scenario_2 will be also be calculated in Step.3.
+
 The results are given in the submitted manuscript "Fully Connected Layer-Shared Network Architecture for Massive MIMO CSI Feedback".
