@@ -117,7 +117,7 @@ x_test = x_test.astype('float32')
 
 x_train = x_train[0:size_of_trainingset]
 
-# adapt this if using `channels_first` image data format
+# adapt this if using 'channels_first' image data format
 x_train = np.reshape(x_train, (len(x_train), img_channels, img_height, img_width))
 x_val = np.reshape(x_val, (len(x_val), img_channels, img_height, img_width))
 x_test = np.reshape(x_test, (len(x_test), img_channels, img_height, img_width))
