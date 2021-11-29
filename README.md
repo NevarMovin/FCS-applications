@@ -8,7 +8,7 @@ This repository contains the program of the training and testing procedures of F
 - Tensorflow (>=1.4)
 - Numpy
 # Instructions
-The following instructions are necessary before the networking training:
+The following instructions are necessary before the network training:
 - The repository only provide the programs used for the training and testing of the FCS-CsiNet and FCS-CRNet in the form of python files. The network models in the form of h5 files are not included.
 - The part "settings of GPU" in each python file should be adjusted in advance according to the device setting of the user.
 - The folds named "result" and "data" should be established in advance in the folds "FCS-CsiNet" and "FCS-CRNet" to store the models obtained during the training procedure and to store the dataset used for training and testing.
