@@ -1,7 +1,7 @@
 # FCS-applications
 Source code for CsiNet and CRNet using the Fully Connected Layer-Shared feedback architecture. 
 # Introduction
-This repository contains the program of the training and testing procedures of FCS-CsiNet and FCS-CRNet proposed in Boyuan Zhang, Haozhen Li, Xin Liang, Xinyu Gu, and Lin Zhang, "Fully Connected Layer-Shared Network Architecture for Massive MIMO CSI Feedback" (submitted to IET Electronics Letters).
+This repository contains the program of the training and testing procedures of FCS-CsiNet and FCS-CRNet proposed in Boyuan Zhang, Haozhen Li, Xin Liang, Xinyu Gu, and Lin Zhang, "Fully Connected Layer-Shared Network Architecture for Massive MIMO CSI Feedback", which can be refered to https://doi.org/10.1049/ell2.12418.
 # Requirements
 - Python 3.5 (or 3.6)
 - Keras (>=2.1.1)
